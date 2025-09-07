@@ -7,3 +7,7 @@
 var = 2
 print(var)
 ```
+
+- [x] checklist item 1
+- [x] checklist item 2
+- [ ] checklist item 3
