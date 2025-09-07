@@ -2,3 +2,8 @@
 ### adding a H3 header
 
  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```python
+var = 2
+print(var)
+```
